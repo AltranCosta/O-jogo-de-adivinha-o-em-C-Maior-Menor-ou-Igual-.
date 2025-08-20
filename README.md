@@ -18,7 +18,7 @@
     - Biblioteca <time.h> para inicialização da semente aleatória
     - Validações de entrada para garantir que o jogador digite números válidos
 
- Autor            : [Seu Nome Aqui]
- Data de Criação  : [Data Aqui]
+ Autor            : [Altran Costa]
+ Data de Criação  : [20/08/2025]
  ============================================================================
 */
